@@ -12,4 +12,4 @@ Here are some examples to get it running:
     1. In Web Browser navigate: 127.0.0.1:8000/
     1. Navigate to WebGL-Solar-System/proj3/solar_system.html
 1. Or if you have VS Code then you could just get the Live Server extension and run it there.
-1. Or visit my online portfolio for a live demo -> [Coming soon]
+1. Or visit my online portfolio for a live demo -> https://kb-42.github.io/#first
